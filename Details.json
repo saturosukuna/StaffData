@@ -1,22 +1,52 @@
-const staffDetails = [
+[
   {
-    name: "Dr. V. Srinivasan",
-    dept: "Information Technology",
-    qualification: "B.E., M.E., M.Tech., Ph.D.",
-    experience: "38 Years",
-    photo: "https://annamalaiuniversity.ac.in/assets/staff_photos/00649.jpg",
-    contact: "johndoe@university.edu",
-    phone: "+91 9876543210",
-    dob: "1965-06-15", // Date of Birth (YYYY-MM-DD format)
+    "name": "Dr. V. Srinivasan",
+    "dept": "Information Technology",
+    "qualification": "B.E., M.E., M.Tech., Ph.D.",
+    "experience": "38 Years",
+    "dob": "1965-04-12",
+    "photo": "https://annamalaiuniversity.ac.in/assets/staff_photos/00649.jpg",
+    "contact": "srinivasan@university.edu",
+    "phone": "+91 9876543210"
   },
   {
-    name: "Dr. Jane Smith",
-    dept: "Information Technology",
-    qualification: "Ph.D. in Data Science",
-    experience: "12 Years",
-    photo: "https://via.placeholder.com/150",
-    contact: "janesmith@university.edu",
-    phone: "+91 8765432109",
-    dob: "1980-11-25",
+    "name": "Dr. Jane Smith",
+    "dept": "Information Technology",
+    "qualification": "Ph.D. in Data Science",
+    "experience": "12 Years",
+    "dob": "1985-09-25",
+    "photo": "https://via.placeholder.com/150",
+    "contact": "janesmith@university.edu",
+    "phone": "+91 8765432109"
   },
-];
+  {
+    "name": "Dr. Ramesh Kumar",
+    "dept": "Computer Science",
+    "qualification": "B.Tech., M.Tech., Ph.D.",
+    "experience": "22 Years",
+    "dob": "1973-07-10",
+    "photo": "https://via.placeholder.com/150",
+    "contact": "rameshkumar@university.edu",
+    "phone": "+91 9988776655"
+  },
+  {
+    "name": "Dr. Priya Anand",
+    "dept": "Electronics and Communication",
+    "qualification": "M.E., Ph.D.",
+    "experience": "15 Years",
+    "dob": "1980-02-18",
+    "photo": "https://via.placeholder.com/150",
+    "contact": "priyaanand@university.edu",
+    "phone": "+91 9871234567"
+  },
+  {
+    "name": "Dr. Arun Bhat",
+    "dept": "Mechanical Engineering",
+    "qualification": "B.E., M.E., Ph.D.",
+    "experience": "25 Years",
+    "dob": "1970-06-05",
+    "photo": "https://via.placeholder.com/150",
+    "contact": "arunbhat@university.edu",
+    "phone": "+91 8765123490"
+  }
+]
