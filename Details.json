@@ -1,0 +1,22 @@
+const staffDetails = [
+  {
+    name: "Dr. V. Srinivasan",
+    dept: "Information Technology",
+    qualification: "B.E., M.E., M.Tech., Ph.D.",
+    experience: "38 Years",
+    photo: "https://annamalaiuniversity.ac.in/assets/staff_photos/00649.jpg",
+    contact: "johndoe@university.edu",
+    phone: "+91 9876543210",
+    dob: "1965-06-15", // Date of Birth (YYYY-MM-DD format)
+  },
+  {
+    name: "Dr. Jane Smith",
+    dept: "Information Technology",
+    qualification: "Ph.D. in Data Science",
+    experience: "12 Years",
+    photo: "https://via.placeholder.com/150",
+    contact: "janesmith@university.edu",
+    phone: "+91 8765432109",
+    dob: "1980-11-25",
+  },
+];
